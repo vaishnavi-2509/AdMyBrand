@@ -49,3 +49,33 @@ npm run dev
 npm run build
 npm run start       
 ```
+
+4. Project structure
+```bash
+/app
+  layout.tsx
+  page.tsx
+  globals.css
+/components
+  Button.tsx
+  FeatureItem.tsx
+  Hero.tsx
+  Features.tsx
+  Pricing.tsx
+  PricingCard.tsx
+  PricingCalculator.tsx
+  Testimonials.tsx
+  FAQ.tsx
+  ContactForm.tsx
+  Footer.tsx
+/animations
+  ScrollReveal.tsx
+/public
+  hero.jpg
+  hero-video.mp4
+tailwind.config.ts
+next.config.js
+package.json
+tsconfig.json
+README.md
+```
