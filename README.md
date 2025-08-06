@@ -32,16 +32,15 @@ A modern, AI-powered marketing tool that helps you automate, optimize, and scale
 ## 🛠 Setup Instructions
 
 1. **Clone & Install Dependencies**  
-   ```bash
+```bash
    git clone https://github.com/vaishnavi-2509/admybrand-landing.git
    cd admybrand-landing
    npm install
 ```
 
 2.Run in Development
-
-```bash
-npm run dev
+```bash 
+npm run dev     
 ```
 
 3.Build & Preview Production
